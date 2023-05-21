@@ -14,3 +14,19 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelxsouza&layout=compact&langs_count=7&theme=react"/>
   
   </dix>
+
+  
+
+ <div style="display: inline_block"><br/>
+   <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+ </div>
+ <div style="display: inline_block"><br/>
+   <img alig="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+ </div>
+ <div style="display: inline_block"><br/>
+   <img alig="center" alt="python3" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ </div>
+ <div style="display: inline_block"><br/>
+   <img alig="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+ </div>
+
